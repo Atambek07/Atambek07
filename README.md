@@ -90,9 +90,3 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 </p>
 
 ---
-
-### ⏳ GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00f796/Atambek07" alt="Atambek's GitHub chart" />
-</p>
