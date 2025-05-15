@@ -19,13 +19,13 @@
 ### 👨‍💻 About Me
 - 📍 From Razzakov, Batken, Kyrgyzstan 🇰🇬  
 - 🔧 Focused on **backend development, clean architecture** and **socially impactful tech**
-- 📚 Learning full-stack development — backend-first with Python, Django, REST, PostgreSQL, Docker
+- 📚 Learning full-stack development — backend-first with Python, Django, REST, PostgreSQL, Docker, React, Vue, JavaScript
 - 🤖 Passionate about **AI in education**, **digital transformation**, and **smart city platforms**
 - 💡 Always seeking to improve and innovate with code
 
 ---
 
-### 🚀 My Projects
+### 🚀 Some My Projects
 
 🌐 **SmartRazzakov**  
 A digital platform that connects citizens, data, and services for building a smarter, more inclusive city.
@@ -55,8 +55,8 @@ Smart transportation with live SMS tracking, AI route planning, voice navigation
 
 ```yaml
 Languages:    Python, HTML, CSS, JavaScript
-Frameworks:   Django, REST
-Databases:    PostgreSQL
+Frameworks:   Django, REST, Vue, React
+Databases:    PostgreSQL, SQLite
 Tools:        Docker, Git, GitHub, Linux
 Concepts:     Clean Architecture, API Design, Testing, Deployment
 ```
@@ -80,9 +80,6 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atambek07&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atambek07&layout=compact&theme=radical" alt="Top Languages" />
