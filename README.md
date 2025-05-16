@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Atambek Abdisalamov 👋</h1>
-<h3 align="center">Junior Backend Developer & Data Science Enthusiast</h3>
+<h3 align="center">Backend Developer & Data Science Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F796&center=true&vCenter=true&width=435&lines=Backend+Developer;AI+in+Education+Enthusiast;Smart+City+Builder;Learning+Fast+%26+Dreaming+Big" alt="Typing SVG" />
