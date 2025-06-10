@@ -80,13 +80,13 @@ Smart public transport system with live SMS tracking, AI-powered route planning,
 Languages:    Python, HTML, CSS, JavaScript
 Frameworks:   Django, REST, Vue.js, React
 Databases:    PostgreSQL, SQLite
-Tools:        Docker, Git, GitHub, Linux, Swagger
+Tools:        Docker, Git, GitHub, Linux, Swagger, Ubuntu 
 Concepts:     Clean Architecture, API Design, Testing, Deployment
 ```
 ---
 
 ### 🛠 My Dev Setup
-- 💻 Dell Precision 7520 — Intel Core i7, 16GB RAM, Ubuntu Linuxu
+- 💻 Ubuntu Linux
 - 📝 VS Code + GitHub Copilot
 - 🐳 Development: Docker, Swagger for API docs
 
