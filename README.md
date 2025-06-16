@@ -45,7 +45,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 📍 Based in Razzakov, Batken, Kyrgyzstan 🇰🇬  
+- 📍 Batken, Kyrgyzstan
 - 🔧 Specializing in **backend development**, **clean architecture**, and **socially impactful tech**
 - 💻 Learning full-stack development — backend-first with Python, Django, REST, PostgreSQL, Docker, React, Vue
 - 🤖 Passionate about **AI in education**, **digital transformation**, and **smart city ecosystems**
