@@ -127,6 +127,22 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 
 ---
 
+### 💡 Interests & Hobbies
+
+- 🎮 **Gaming**  
+  Enjoy competitive and team-based games like Counter Strike 2 and eFootball.
+
+- 🎵 **Music**  
+  Love creating and listening to playlists across various genres for inspiration.
+
+- 📚 **Reading**  
+  Passionate about foreign literature, especially authors like Remarque and classic works.
+
+- ⚽ **Sports & Active Lifestyle**  
+  Football and chess — activities that train both mind and body.
+
+--- 
+
 ### 📫 Contact Me
 
 - Email: atambek165@gmail.com  
