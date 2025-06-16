@@ -1,31 +1,49 @@
-name: ⏳ Update README with timestamp
+name: 🔄 Auto-update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # каждый день в 00:00 UTC
-  workflow_dispatch: # запуск вручную
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-
-      - name: Update timestamp in README
+      - name: Fetch repositories and update README
         run: |
+          echo "📥 Fetching repos..."
+
+          # Получаем список публичных реп, отсортированных по дате обновления
+          curl -s "https://api.github.com/users/Atambek07/repos?per_page=100" |
+          jq -r '.[] | "\(.updated_at) \(.name) \(.html_url) \(.description)"' |
+          sort -r |
+          head -n 5 |
+          awk '{name=$2; url=$3; desc=substr($0, index($0,$4)); print "- [" name "](" url ") — " desc}' > featured.tmp
+
+          # Заменяем в README между FEATURED_REPOS:START и END
+          awk '
+            /<!-- FEATURED_REPOS:START -->/ {print; system("cat featured.tmp"); skip=1; next}
+            /<!-- FEATURED_REPOS:END -->/ {skip=0}
+            skip==0 {print}
+          ' README.md > README.tmp
+
+          # Обновляем дату
           DATE=$(date -u "+%Y-%m-%d")
-          sed -i "s|📅 Last updated: .*|📅 Last updated: ${DATE}|" README.md
+          sed -i "s|📅 Last updated: .*|📅 Last updated: ${DATE}|" README.tmp
+
+          mv README.tmp README.md
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 Update README timestamp"
+          git commit -m "🛠 Update featured repos and timestamp"
           git push
+
+      - name: Clean up
+        run: rm -f featured.tmp
