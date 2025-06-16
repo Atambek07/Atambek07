@@ -133,6 +133,13 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 </p>
 
 ---
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atambek07/Atambek07/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+---
+
 
 📅 Last updated: 2025-06-16
 
