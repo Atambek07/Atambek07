@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Atambek Abdisalamov 👋</h1>
+<h1 align="center">Hey there, I'm Atambek 👋</h1>
 <h3 align="center">Backend Developer & Data Science Enthusiast</h3>
 
 <p align="center">
