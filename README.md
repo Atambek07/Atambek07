@@ -77,13 +77,6 @@ Smart public transport system with live SMS tracking, AI-powered route planning,
 
 ---
 
-### 📌 Featured Repositories
-
-<!-- FEATURED_REPOS:START -->
-<!-- FEATURED_REPOS:END -->
-
----
-
 ### 🏆 Achievements & Recognition
 
 - 🥈 Finalist – **National Competitive Programming Olympiads** (2023–2025)
@@ -179,7 +172,3 @@ Concepts:     Clean Architecture, API Design, Testing, Deployment
 ---
 
 
-📅 Last updated: 2025-06-16
-
-
---- 
