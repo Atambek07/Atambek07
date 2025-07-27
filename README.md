@@ -20,8 +20,6 @@
 #### ⚙️ Frameworks & Libraries
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
 </div>
 
@@ -33,7 +31,6 @@
 
 #### 🛠️ Tools & Platforms
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
@@ -56,24 +53,6 @@
 ### 🌱 Why I Code
 I believe technology can empower communities and create real change — especially in education, civic services, and accessibility.  
 Every line of code I write is a step toward a smarter, more inclusive, and connected world.
-
----
-
-### 🚀 Highlight Projects
-
-🌐 **SmartRazzakov**  
-Digital platform connecting citizens, data, and local services — enabling smarter urban living.
-
-📚 **EduSpace**  
-AI-powered educational ecosystem with virtual classrooms, smart assessments, gamification, and parental engagement tools.
-
-🏙 **CityTales**  
-Turns cultural landmarks into interactive QR story-points with maps, quests, visuals, and offline access — built with local communities.
-
-🚌 **CityRoutes**  
-Smart public transport system with live SMS tracking, AI-powered route planning, voice navigation, and accessibility support.
-
-> Each project reflects my mission: to solve **real-world problems through purposeful technology**. 🌍
 
 ---
 
@@ -105,18 +84,18 @@ Smart public transport system with live SMS tracking, AI-powered route planning,
 ### 🛠️ Tech Stack
 
 ```yaml
-Languages:    Python, HTML, CSS, JavaScript
-Frameworks:   Django, REST, Vue.js, React
+Languages:    Python
+Frameworks:   Django, REST, 
 Databases:    PostgreSQL, SQLite
-Tools:        Docker, Git, GitHub, Linux, Swagger, Ubuntu 
-Concepts:     Clean Architecture, API Design, Testing, Deployment
+Tools:        Git, GitHub, Linux, Swagger, Ubuntu 
+Concepts:     Clean Architecture, API, Deployment
 ```
 ---
 
 ### 🛠 My Dev Setup
 - 💻 Ubuntu Linux
 - 📝 VS Code + GitHub Copilot
-- 🐳 Development: Docker, Swagger for API docs
+- 🐳 Development: Swagger for API docs
 
 ---
 
