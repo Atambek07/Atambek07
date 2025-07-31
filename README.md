@@ -41,8 +41,8 @@
 ### 👨‍💻 About Me
 - 📍 Batken, Kyrgyzstan
 - 🔧 Specializing in **backend development**, **clean architecture**, and **socially impactful tech**
-- 💻 Learning full-stack development — backend-first with Python, Django, REST, PostgreSQL, Docker, React, Vue
-- 🤖 Passionate about **AI in education**, **digital transformation**, and **smart city ecosystems**
+- 💻 Learning full-stack development — backend-first with Python, Django, REST-Framework, PostgreSQL, API
+ - 🤖 Passionate about **AI in education**, **digital transformation**, and **smart city ecosystems**
 - 🚀 Constantly striving to improve and build meaningful software
 
 ---
@@ -82,9 +82,9 @@ Every line of code I write is a step toward a smarter, more inclusive, and conne
 
 ```yaml
 Languages:    Python
-Frameworks:   Django, REST, 
+Frameworks:   Django, REST-Framework, 
 Databases:    PostgreSQL, SQLite
-Tools:        Git, GitHub, Linux, Swagger, Ubuntu 
+Tools:        Git, GitHub, Linux, Ubuntu, Swagger, Postman
 Concepts:     Clean Architecture, API, Deployment
 ```
 ---
@@ -92,6 +92,7 @@ Concepts:     Clean Architecture, API, Deployment
 ### 🛠 My Dev Setup
 - 💻 Ubuntu Linux
 - 📝 VS Code + GitHub Copilot
+- 📱 PyCharm Professional + JetBrains AI Pro
 - 🐳 Development: Swagger for API docs
 
 ---
