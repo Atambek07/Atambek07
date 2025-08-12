@@ -93,7 +93,7 @@ Concepts:     Clean Architecture, API, Deployment
 - 💻 Ubuntu Linux
 - 📝 VS Code + GitHub Copilot
 - 📱 PyCharm Professional + JetBrains AI Pro
-- 🐳 Development: Swagger for API docs
+- 🐳 Development: Swagger for API docs, Postman 
 
 ---
 
