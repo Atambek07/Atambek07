@@ -43,8 +43,7 @@
 ### 👨‍💻 About Me
 - 📍 Batken, Kyrgyzstan
 - 🔧 Specializing in **backend development**, **clean architecture**, and **socially impactful tech**
-- 💻 Learning full-stack development — backend-first with Python, Django, REST-Framework, PostgreSQL, API
- - 🤖 Passionate about **AI in education**, **digital transformation**, and **smart city ecosystems**
+- 💻 Learning backend development — backend-first with Python, Django, REST-Framework, PostgreSQL, API
 - 🚀 Constantly striving to improve and build meaningful software
 
 ---
@@ -66,14 +65,14 @@ Every line of code I write is a step toward a smarter, more inclusive, and conne
 ### ⏳ My Developer Journey
 
 **2023** – Started with Python & Django, built my first REST APIs  
-**2024** – Adopted Clean Architecture & launched SmartRazzakov  
-**2025** – Integrating AI into EduSpace and exploring advanced web technologies
+**2024** – launched SmartRazzakov  
+**2025** – Exploring advanced web technologies
 
 ---
 
 ### 🎯 2025 Learning Goals
 
-- ⚡ Master FastAPI & WebSocket-based communication
+- ⚡ Master RestAPI 
 - 🧠 Build custom AI agents with Python
 - 📱 Launch a Progressive Web App (PWA)
 - 📊 Dive deeper into Data Science (Pandas, scikit-learn)
@@ -124,9 +123,7 @@ Concepts:     Clean Architecture, API, Deployment
 
 ---
 
-> *“Building impactful tech for smarter cities, stronger communities, and better education.”*
-
-> *Let’s build something meaningful together — for education, for cities, for people.*
+> *Let’s build something meaningful together — for everyone.*
 
 *🌐 Reach out, connect, collaborate. The future is being coded today.*
 
