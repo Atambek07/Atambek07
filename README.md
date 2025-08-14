@@ -43,7 +43,7 @@
 ### 👨‍💻 About Me
 - 📍 Batken, Kyrgyzstan
 - 🔧 Specializing in **backend development**, **clean architecture**, and **socially impactful tech**
-- 💻 Learning backend development — backend-first with Python, Django, REST-Framework, PostgreSQL, API
+- 💻 Learning backend development — backend-first with Python, Django, REST-Framework, API
 - 🚀 Constantly striving to improve and build meaningful software
 
 ---
