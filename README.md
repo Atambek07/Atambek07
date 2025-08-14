@@ -17,8 +17,10 @@
 #### ⚙️ Frameworks & Libraries
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/-Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/-REST%20API-02569B?style=flat&logo=api&logoColor=white" alt="REST API" />
 </div>
+
 
 #### 🗄️ Databases
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
