@@ -7,8 +7,6 @@
 
 ---
 
-### 🛠️ Skills
-
 #### 🗣️ Languages
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
