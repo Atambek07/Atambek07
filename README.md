@@ -10,7 +10,9 @@
 #### 🗣️ Languages
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
 </div>
+
 
 #### ⚙️ Frameworks & Libraries
 <div style="display:flex; flex-wrap: wrap; gap: 10px;">
@@ -64,18 +66,10 @@ Every line of code I write is a step toward a smarter, more inclusive, and conne
 
 **2023** – Started with Python & Django, built my first REST APIs  
 **2024** – launched SmartRazzakov  
-**2025** – Exploring advanced web technologies
+**2025** – Exploring advanced web technologies, started learning C++
 
 ---
 
-### 🎯 2025 Learning Goals
-
-- ⚡ Master RestAPI 
-- 🧠 Build custom AI agents with Python
-- 📱 Launch a Progressive Web App (PWA)
-- 📊 Dive deeper into Data Science (Pandas, scikit-learn)
-
----
 
 ### 🛠️ Tech Stack
 
