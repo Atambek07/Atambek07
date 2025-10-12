@@ -74,7 +74,7 @@ Every line of code I write is a step toward a smarter, more inclusive, and conne
 ### 🛠️ Tech Stack
 
 ```yaml
-Languages:    Python
+Languages:    Python, С++
 Frameworks:   Django, REST-Framework, 
 Databases:    PostgreSQL, SQLite
 Tools:        Git, GitHub, Linux, Ubuntu, Swagger, Postman
