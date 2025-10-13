@@ -48,12 +48,6 @@
 
 ---
 
-### 🌱 Why I Code
-I believe technology can empower communities and create real change — especially in education, civic services, and accessibility.  
-Every line of code I write is a step toward a smarter, more inclusive, and connected world.
-
----
-
 ### 🏆 Achievements & Recognition
 
 - 🥈 Finalist – **National Competitive Programming Olympiads** (2023–2025)
