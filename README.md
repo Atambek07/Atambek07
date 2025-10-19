@@ -55,16 +55,6 @@
 - 📜 Certified – **Digital Literacy Program**, ICT4Girls (GIZ, AI Academy, HT Park)
 
 ---
-
-### ⏳ My Developer Journey
-
-**2023** – Started with Python & Django, built my first REST APIs  
-**2024** – launched SmartRazzakov  
-**2025** – Exploring advanced web technologies, started learning C++
-
----
-
-
 ### 🛠️ Tech Stack
 
 ```yaml
