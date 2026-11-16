@@ -14,6 +14,13 @@
 </div>
 
 ---
+### 🐍 Contribution Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+---
 
 ### `$ cat ./about.yml`
 
@@ -133,10 +140,6 @@ off_screen: ["Remarque & Classic Literature", "Boxing & Football", "Chess", "CS2
 
 ### 📊 Live GitHub Telemetry
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atambek07&show_icons=true&bg_color=0D1117&border_color=21262D&title_color=00F796&icon_color=00F796&text_color=C9D1D9&hide_rank=false" alt="Atambek's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atambek07&layout=compact&bg_color=0D1117&border_color=21262D&title_color=00F796&text_color=C9D1D9" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atambek07&background=0D1117&border=21262D&stroke=21262D&ring=00F796&fire=00F796&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=00F796&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
