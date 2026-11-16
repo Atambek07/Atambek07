@@ -36,11 +36,26 @@ off_screen: ["Remarque & Classic Literature", "Boxing & Football", "Chess", "CS2
 ```
 
 ---
-
 ### 🚀 Featured Engineering Projects
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <p>
+        <a href="https://github.com/Atambek07/UNEARTH"><b>⚡ UNEARTH — LFG-to-Energy &amp; Compute Grid</b></a>
+        <br/>
+        <img src="https://img.shields.io/badge/STATUS-SIMULATOR_LIVE-00F796?style=flat-square&labelColor=0D1117" alt="Status: Live" />
+      </p>
+      <p>Smart landfill-gas-to-energy (<b>LFG</b>) and computational grid simulator modeling methane capture, power generation efficiency, and dynamic compute workload allocation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F796" />
+        <img src="https://img.shields.io/badge/Energy_Grid_Sim-0D1117?style=flat-square&logo=lightning&logoColor=00F796" />
+        <img src="https://img.shields.io/badge/CleanTech_%2F_Compute-0D1117?style=flat-square&logo=databricks&logoColor=38BDF8" />
+      </p>
+      <a href="https://github.com/Atambek07/UNEARTH">
+        <img src="https://img.shields.io/badge/Explore_Repository_%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00F796" alt="View Repo" />
+      </a>
+    </td>
     <td width="50%" valign="top">
       <p>
         <a href="https://github.com/Atambek07?tab=repositories"><b>🛰️ NASA Space Apps Health Monitor</b></a>
@@ -57,6 +72,8 @@ off_screen: ["Remarque & Classic Literature", "Boxing & Football", "Chess", "CS2
         <img src="https://img.shields.io/badge/Explore_Repository_%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00F796" alt="View Repo" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <p>
         <a href="https://github.com/Atambek07?tab=repositories"><b>🚦 Smart Traffic Light (IoT Hardware)</b></a>
@@ -73,8 +90,6 @@ off_screen: ["Remarque & Classic Literature", "Boxing & Football", "Chess", "CS2
         <img src="https://img.shields.io/badge/Explore_Repository_%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00F796" alt="View Repo" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <p>
         <a href="https://github.com/Atambek07/ai-agent"><b>🤖 24/7 Autonomous Cloud Agent</b></a>
@@ -91,21 +106,21 @@ off_screen: ["Remarque & Classic Literature", "Boxing & Football", "Chess", "CS2
         <img src="https://img.shields.io/badge/Explore_Repository_%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00F796" alt="View Repo" />
       </a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <p>
-        <a href="https://github.com/Atambek07?tab=repositories"><b>⚙️ Enterprise Backend &amp; REST APIs</b></a>
+        <a href="https://github.com/Atambek07?tab=repositories"><b>⚙️ Enterprise Backend &amp; REST APIs (Java Spring Boot &amp; Django REST)</b></a>
         <br/>
         <img src="https://img.shields.io/badge/STATUS-PRODUCTION_READY-38BDF8?style=flat-square&labelColor=0D1117" alt="Status: Production Ready" />
       </p>
-      <p>Production-grade services built with <b>Java Spring Boot</b> (Data JPA, optimistic locking, dynamic specs, MockMvc testing) and <b>Django REST Framework</b> with OpenAPI/Swagger.</p>
+      <p>Production-grade backend architectures featuring <b>Java Spring Boot</b> (Spring Data JPA, optimistic locking, dynamic Specifications, MockMvc integration tests) and <b>Django REST Framework</b> with automated OpenAPI/Swagger documentation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=00F796" />
+        <img src="https://img.shields.io/badge/Java_Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=00F796" />
         <img src="https://img.shields.io/badge/Django_REST-0D1117?style=flat-square&logo=django&logoColor=00F796" />
-        <img src="https://img.shields.io/badge/PostgreSQL_/_MSSQL-0D1117?style=flat-square&logo=postgresql&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/PostgreSQL_/_MS_SQL-0D1117?style=flat-square&logo=postgresql&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/OpenAPI_Swagger-0D1117?style=flat-square&logo=swagger&logoColor=00F796" />
       </p>
-      <a href="https://github.com/Atambek07?tab=repositories">
-        <img src="https://img.shields.io/badge/Browse_Backend_Repos_%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=00F796" alt="Browse Repos" />
-      </a>
     </td>
   </tr>
 </table>
